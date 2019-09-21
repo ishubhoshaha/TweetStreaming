@@ -1,7 +1,9 @@
 ## Setting up project enviornmnet (Assuming virtualenv is already installed)
 
 `virtualenv -p python3 venv`
+
 `source venv/bin/activate`
+
 `pip install -r requirements.txt`
 
 ## run project locally
